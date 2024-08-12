@@ -18,11 +18,3 @@ describe CouponsController do
   end
 
 end
-
-{"coupon"=>
-  {
-    "coupon_code"=>"ASD123",
-    "store"=>"Dean and Deluca"
-  },
-  "controller"=>"coupons", "action"=>"create"
-}
